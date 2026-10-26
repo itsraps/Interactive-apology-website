@@ -26,11 +26,11 @@ const FinalScreen = ({ onReplay }) => {
 
         {/* Final Message */}
         <h1 className="text-4xl font-semibold text-gray-700 mb-6">
-          Mujhe pata tha tum zyada der naraz nahi reh sakti 🥹💖
+          I love you moree sayangg! I would love you forever until endd bbubb 🥹💖
         </h1>
 
         <p className="text-2xl text-rose-600 mb-10">
-          Ab bas smiles hi smiles 🎉❤️
+          You're the first person who always make me smile 🎉❤️
         </p>
 
         {/* Replay */}
