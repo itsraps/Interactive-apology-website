@@ -15,7 +15,7 @@ export const story = [
   },
   {
     image: img3,
-    text: "We call through  discord  and having   fun... 🥺",
+    text: "Our first chat! You look so cute 🥺",
   },
   {
     image: img4,
@@ -23,6 +23,6 @@ export const story = [
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. Please maafin aku yahh cantikk ❤️",
+    text: "I Love you forever my lovee❤️",
   },
 ];
